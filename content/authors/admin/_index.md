@@ -77,8 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello and welcome to my personal homepage! I am an Assistant Professor of Marketing at KU Leuven, Belgium, since October 2019. I received my PhD from Goethe University Frankfurt, Germany, in March 2019. My research lies at the boundaries of Empirical Industrial Organization and Quantitative Marketing. In particular, I am interested in topics such as pricing, regulation, consumer choice models (frequentist as well as Bayesian approaches) and competitive analysis. Typically, I combine state-of-the-art econometric methods with economic models of consumer and firm behavior to examine marketing related questions. The aim of my research is to assist decisionmakers in business and politics with a data-driven approach. During my doctoral studies I gained extensive experience working with consumer purchase data grocery retail sector.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
