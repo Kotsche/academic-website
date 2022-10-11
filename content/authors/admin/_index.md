@@ -10,7 +10,7 @@ last_name: Kotschedoff
 superuser: true
 
 # Role/position/tagline
-role: Professor of Marketing
+role: Assistant Professor of Marketing
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,9 +22,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Marketing and Public Policy
+  - Marketing Analytics
+  - Retailing
 
 # Education to show in About widget
 education:
