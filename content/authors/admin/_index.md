@@ -77,7 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-Hello and welcome to my personal homepage! I am an Assistant Professor of Marketing at KU Leuven, Belgium, since October 2019. I received my PhD from Goethe University Frankfurt, Germany, in March 2019. My research lies at the boundaries of Empirical Industrial Organization and Quantitative Marketing. In particular, I am interested in topics such as pricing, regulation, consumer choice models (frequentist as well as Bayesian approaches) and competitive analysis. Typically, I combine state-of-the-art econometric methods with economic models of consumer and firm behavior to examine marketing related questions. The aim of my research is to assist decisionmakers in business and politics with a data-driven approach. During my doctoral studies I gained extensive experience working with consumer purchase data grocery retail sector.
+Welcome to my webpage! I am an Assistant Professor of Marketing at KU Leuven, Belgium. My research lies at the boundaries of Empirical Industrial Organization and Quantitative Marketing. In particular, I am interested in topics such as pricing, regulation, consumer choice models (frequentist as well as Bayesian approaches) and competitive analysis. Typically, I combine state-of-the-art econometric methods with economic models of consumer and firm behavior to examine marketing related questions. The aim of my research is to assist decisionmakers in business and politics with a data-driven approach.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
